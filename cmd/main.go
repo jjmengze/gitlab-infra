@@ -1,6 +1,7 @@
 package main
 
 import (
+	"awesome-hook/pkg/hook"
 	"github.com/sirupsen/logrus"
 	"net/http"
 )
